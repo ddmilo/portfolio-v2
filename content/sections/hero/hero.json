@@ -1,17 +1,17 @@
 {
-  "intro": "Hej",
+  "intro": "Hello",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/me.jpg",
     "alt": "My Photo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "My Name Is Dan",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "",
+    "highlight": "Full Stack Web Developer",
     "suffix": "."
   },
   "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",

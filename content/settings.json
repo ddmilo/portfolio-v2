@@ -9,21 +9,20 @@
     "avatar": "../content/images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "github": "https://github.com/ddmilo",
+      "linkedin": "https://www.linkedin.com/in/dan-milo/",
+      "mail": "mailto:danmilo@justkode.io"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Dan Milo" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Portfolio", "url": "/#features" },
+        { "label": "Github", "url": "/#github" },
+        { "label": "Contact", "url": "/#contact" }
+
       ],
       "ctaButton": {
         "openNewTab": true,
