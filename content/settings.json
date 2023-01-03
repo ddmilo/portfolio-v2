@@ -19,7 +19,8 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Portfolio", "url": "/#features" },
+        { "label": "Skills", "url": "/#skills" },
+        { "label": "Portfolio", "url": "/#portfolio" },
         { "label": "Github", "url": "/#github" },
         { "label": "Contact", "url": "/#contact" }
 

@@ -1,20 +1,20 @@
 {
   "intro": "Hello",
   "heroPhoto": {
-    "src": "../../images/me.jpg",
+    "src": "",
     "alt": "My Photo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "My Name Is Dan",
+  "title": "My Name Is Dan Milo.",
   "subtitle": {
     "prefix": "",
-    "highlight": "Full Stack Web Developer",
+    "highlight": "I build things for the web",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "I’m a developer specializing in building (and sometimes designing) digital experiences. Currently I work as a freelancer, hopping around different pockets of the web, open to any opportunities that may come my way.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": false

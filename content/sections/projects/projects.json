@@ -2,20 +2,16 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ React + Ruby On Rails",
+      "category": "🧰 React + Ruby On Rails",
       "title": "VHR",
-      "description": "A Buisness Management Solution tailor made for HR. Linked is the alpha prototype with permission granted by Variance Reduction International.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "description": "A Business Management Solution tailor made for HR. Private Repo. Image used is from working internal alpha prototype granted by Variance Reduction International. Private demo with alpha build allowed on request. ",
+      "tags": ["React", "Ruby On Rails", "Redux", "Authorization", "Authentication", "RESTful API", "AWS"],
       "image": {
         "src": "../../images/vhr.png",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "alt": "VHR"
       },
       "links": [
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
-        }
+
       ]
     },
     {
@@ -23,15 +19,41 @@
       "category": "🧰 React + Ruby On Rails",
       "title": "Posty",
       "description": "A small sticky notes applications built using React with a custom Ruby On Rails API on the backend. Features include Authentication and Authorization using Devise + DeviseTokenAuth with full CRUD functionality.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "tags": ["React", "Ruby On Rails", "Redux", "Authorization", "Authentication"],
       "image": {
         "src": "../../images/posty.png",
-        "alt": "Extendable Layout"
+        "alt": "Posty"
       },
       "links": [
         {
+          "type": "github",
+          "url" : "https://github.com/ddmilo/Posty"
+        },
+        {
           "type": "external",
           "url": "https://shticky-notes.herokuapp.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🧰 Node.JS + Express.JS + Discord.JS",
+      "title": "GipheeBot",
+      "description": "A Discord Bot that utilizes the Giphy API to post GIFs in a chat channel.",
+      "tags": ["JavaScript", "Node.JS", "Express.JS", "Discord.JS", "API"],
+      "image": {
+        "src": "../../images/giphee.png",
+        "alt": "Extendable Layout",
+        "linkTo": "/static/0cec39242684fa58c7fea885f94baa84/giphee.mp4"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/ddmilo/GipheeBot"
+        },
+        {
+          "type": "external",
+          "url": "/static/0cec39242684fa58c7fea885f94baa84/giphee.mp4"
         }
       ]
     }

@@ -1,16 +1,9 @@
 {
   "interests": [
     {
-      "label": "HTML5",
-      "image": {
-        "src": "../../images/joystick.png",
-        "alt": ""
-      }
-    },
-    {
       "label": "JavaScript",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/js.png",
         "alt": ""
       }
     },
@@ -24,35 +17,140 @@
     {
       "label": "Ruby",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/ruby.png",
         "alt": ""
       }
     },
     {
       "label": "Ruby On Rails",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/rails.png",
         "alt": ""
       }
     },
     {
       "label": "GraphQL",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/graphql.png",
         "alt": ""
       }
     },
     {
       "label": "RESTful APIs",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/restful.png",
         "alt": ""
       }
     },
     {
       "label": "GatsbyJS",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/gatsby.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Redux",
+      "image": {
+        "src": "../../images/redux.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "AngularJS",
+      "image": {
+        "src": "../../images/Angular.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "NodeJS",
+      "image": {
+        "src": "../../images/node.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "PostgreSQL",
+      "image": {
+        "src": "../../images/psql.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "DiscordJS",
+      "image": {
+        "src": "../../images/discordjs.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Python",
+      "image": {
+        "src": "../../images/python.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Django",
+      "image": {
+        "src": "../../images/django.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "HTML5",
+      "image": {
+        "src": "../../images/html.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "CSS",
+      "image": {
+        "src": "../../images/css.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "WordPress",
+      "image": {
+        "src": "../../images/wordpress.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Wix",
+      "image": {
+        "src": "../../images/wix.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Mac",
+      "image": {
+        "src": "../../images/apple.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Windows",
+      "image": {
+        "src": "../../images/windows.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Linux",
+      "image": {
+        "src": "../../images/linux.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Responsive Design",
+      "image": {
+        "src": "../../images/mobile-phone.png",
         "alt": ""
       }
     }
