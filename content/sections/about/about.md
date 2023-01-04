@@ -1,6 +1,6 @@
 ---
 imageSrc: "../../images/me.jpg"
-imageAlt: "Coffee and Code"
+imageAlt: "Dan"
 
 ---
 

@@ -1,11 +1,11 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "siteUrl": "https://www.danmilo.app/",
+    "title": "Dan Milo || Full Stack Developer",
+    "titleTemplate": "%s · Dan Milo",
+    "description": "Portfolio site for Dan Milo",
+    "author": "Dan Milo",
     "avatar": "../content/images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
