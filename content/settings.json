@@ -11,6 +11,7 @@
     "social": {
       "github": "https://github.com/ddmilo",
       "linkedin": "https://www.linkedin.com/in/dan-milo/",
+      "medium": "https://medium.com/@ddmilo_",
       "mail": "mailto:danmilo@justkode.io"
     }
   },
@@ -31,6 +32,7 @@
         "url": "/Dan_Milo_2023_Resume.pdf"
       },
       "footer": [
+        { "label": "© Dan Milo 2023. This Website Was Built With GatsbyJS.", "url": "https://www.gatsbyjs.com/" },
         { "label": "Privacy", "url": "/privacy" },
         { "label": "Imprint", "url": "/imprint" }
       ]
@@ -42,3 +44,4 @@
     }
   }
 }
+
