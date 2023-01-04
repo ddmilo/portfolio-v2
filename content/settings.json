@@ -32,7 +32,6 @@
         "url": "/Dan_Milo_2023_Resume.pdf"
       },
       "footer": [
-        { "label": "© Dan Milo 2023. This Website Was Built With GatsbyJS.", "url": "https://www.gatsbyjs.com/" },
         { "label": "Privacy", "url": "/privacy" },
         { "label": "Imprint", "url": "/imprint" }
       ]
