@@ -28,7 +28,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "/Dan_Milo_2023_Resume.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
