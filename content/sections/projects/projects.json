@@ -18,7 +18,7 @@
       "visible": true,
       "category": "🧰 React + Ruby On Rails",
       "title": "Posty",
-      "description": "A small sticky notes applications built using React with a custom Ruby On Rails API on the backend. Features include Authentication and Authorization using Devise + DeviseTokenAuth with full CRUD functionality.",
+      "description": "A small sticky notes applications I built using React with a custom Ruby On Rails API on the backend. I used this project to both reacquaint myself with this tech stack and to teach others how build a full stack application using this stack. Features include Authentication and Authorization using Devise + DeviseTokenAuth with full CRUD functionality.",
       "tags": ["React", "Ruby On Rails", "Redux", "Authorization", "Authentication"],
       "image": {
         "src": "../../images/posty.png",
