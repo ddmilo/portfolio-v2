@@ -44,7 +44,7 @@
       "image": {
         "src": "../../images/giphee.png",
         "alt": "Extendable Layout",
-        "linkTo": "/static/0cec39242684fa58c7fea885f94baa84/giphee.mp4"
+        "linkTo": "/giphee.mp4"
       },
       "links": [
         {
@@ -53,7 +53,7 @@
         },
         {
           "type": "external",
-          "url": "/static/0cec39242684fa58c7fea885f94baa84/giphee.mp4"
+          "url": "/giphee.mp4"
         }
       ]
     }
