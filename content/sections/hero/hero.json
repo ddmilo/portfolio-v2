@@ -1,5 +1,5 @@
 {
-  "intro": "Hello",
+  "intro": "Hello World",
   "heroPhoto": {
     "src": "",
     "alt": "My Photo"
@@ -11,10 +11,10 @@
   "title": "My Name Is Dan Milo.",
   "subtitle": {
     "prefix": "",
-    "highlight": "I build things for the web",
+    "highlight": "I weave things for the web",
     "suffix": "."
   },
-  "description": "I’m a developer specializing in building (and sometimes designing) digital experiences. Currently I work as a freelancer, hopping around different pockets of the web, open to any opportunities that may come my way.",
+  "description": "I’m a full stack developer specializing in building digital experiences. Currently I work as a freelancer, hopping around different pockets of the web, open to any opportunities that may come my way.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": false
